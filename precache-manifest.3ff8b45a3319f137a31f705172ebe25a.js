@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/portfolio/static/media/leaf.d75fd361.jpg"
   },
   {
-    "revision": "444c378010f08a53326ae934d5f8ef54",
+    "revision": "7edac3efb1a77b4964155aa22cf554c0",
     "url": "/portfolio/index.html"
   }
 ];
