@@ -1,5 +1,5 @@
 # My Portfolio
-http://anthonyrobinjly.com/.
+https://bellazook.github.io/portfolio/
 
 ## Created with:
 Create React App and Reactstrap
