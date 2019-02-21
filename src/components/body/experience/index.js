@@ -26,7 +26,7 @@ const Experience = () => {
                     <div>
                         <Divider border="no-border p-sm" />
                         <h4>JavaScript: Understanding the Weird Parts</h4>
-                        <p>A Course on understanding how Javascript works.  The course include
+                        <p>A course on understanding how Javascript works.  The course include
                         execution contexts and lexical environments, types and operators, objects and functions,
                         and many more.</p>
                     </div>
