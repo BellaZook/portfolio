@@ -25,7 +25,7 @@ export default class AppNavbar extends React.Component {
                     <Collapse isOpen={this.state.isOpen} navbar>
                         <Nav className="ml-auto cl-white" navbar>
                             <NavItem>
-                                <NavLink href="/components/" className="cl-white">Projects</NavLink>
+                                <NavLink href="https://github.com/BellaZook?tab=repositories" className="cl-white">Projects</NavLink>
                             </NavItem>
                             <NavItem>
                                 <NavLink href="https://github.com/BellaZook?tab=repositories">GitHub</NavLink>
@@ -41,7 +41,6 @@ export default class AppNavbar extends React.Component {
                                     <DropdownItem>
                                         <a href="#experience">Experience</a>
                                     </DropdownItem>
-
                                     <DropdownItem>
                                         <a href="#about-me">About Me</a>
                                     </DropdownItem>
