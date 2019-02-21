@@ -1,0 +1,23 @@
+.navbar-toggler {
+    background-color: rgba(255, 255, 255, .2);
+    color: white;
+}
+
+
+.navbar-dark .navbar-nav .nav-link {
+    color: white;
+
+}
+
+.nav-bg {
+    background-color: rgba(33, 30, 10, 0.9);
+}
+
+/* If the screen size is 601px wide or more, set the font-size of <div> to 80px */
+@media screen and (max-width: 601px) {
+    .navbar-collapse {
+        background-color: rgba(33, 30, 10, 1);
+        padding: 1rem;
+        color: white;
+    }
+}
