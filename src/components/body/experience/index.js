@@ -33,7 +33,10 @@ const Experience = () => {
                     <div>
                         <Divider border="no-border p-sm" />
                         <h4>Author & Illustrator</h4>
-                        <p>Wrote a children book using mnemonic to help remember the sums of ten. <a href="https://www.amazon.com/dp/1719506175">The Octopus and the Ostrich</a></p>
+                        <p>Wrote a children book using mnemonic to help remember the sums of ten. <a href="https://www.amazon.com/dp/1719506175">The Octopus and the Ostrich</a>
+                            <br />
+                            Illustrations were created using Inksape.
+                        </p>
                     </div>
                 </div>
             </div>
